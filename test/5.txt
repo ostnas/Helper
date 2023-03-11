@@ -1,0 +1,3 @@
+changes for new project
+intermediate changes after creation
+changed for the second build
